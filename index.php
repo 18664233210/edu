@@ -1,2 +1,3 @@
 <?php
-  echo "Word";
+echo "Word";
+echo "Hello";
